@@ -9,3 +9,5 @@ docker-compose run -v \
     ./scripts:/scripts \
     k6 run /scripts/test-01.js
 ```
+
+see your grafana on http://localhost:3000

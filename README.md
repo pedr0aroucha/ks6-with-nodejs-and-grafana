@@ -10,4 +10,4 @@ docker-compose run -v \
     k6 run /scripts/test-01.js
 ```
 
-see your grafana on http://localhost:3000
+see your grafana on http://localhost:3000/d/WoOWSnz4z/k6-load-testing-results?orgId=1&refresh=5s
